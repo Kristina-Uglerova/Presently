@@ -1,0 +1,242 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--background);
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: var(--dark-blue);
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+    --dark-blue: #211f3c;
+    --light-blue: #5b9cf0;
+    --light-pink: #ffdedf;
+    --background: #f8ece0;
+    --dark-pink: #ffa2ce;
+}
+
+body {
+    margin: 0;
+    background-color: var(--background);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.logo {
+    height: 400px;
+    width: auto;
+}
+
+.main_title {
+    color: var(--dark-blue);
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 96px;
+}
+
+.subtitle {
+    color: var(--light-blue);
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.pill_button {
+    background-color: var(--dark-pink);
+    color: #ffffff;
+    margin-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 20px;
+    border-style: none;
+    cursor: pointer;
+}
+
+.wave_container {
+    height: 20vh;
+    background-color: var(--background);
+    position: relative;
+}
+
+.wave_container::before {
+    content: "";
+    width: 100%;
+    height: 168px;
+    position: absolute;
+    bottom: -0.3%;
+    left: 0;
+    background-size: auto;
+    background-repeat: repeat no-repeat;
+    background-position: 100vw bottom;
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1200 91' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 15L33 12C82 9 133 10 200 20C267 30 333 45 400 48C467 50 533 40 600 27C667 15 733 0 800 0C867 0 933 15 1000 20C1067 25 1133 20 1167 17L1200 15V91H1167C1133 91 1067 91 1000 91C933 91 867 91 800 91C733 91 667 91 600 91C533 91 467 91 400 91C333 91 267 91 200 91C133 91 67 91 33 91H0V22.332Z' fill='%23ffdedf'/></svg>");
+}
+
+@media(max-width:850px) {
+    .wave_container::before {
+        height: 22px
+    }
+}
+
+.about_us {
+    padding-left: 250px;
+    padding-right: 250px;
+    background-color: var(--light-pink);
+}
+
+.profile_picture {
+    width: 200px;
+    height: auto;
+    margin-right: 100px;
+}
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--dark-blue);
+    font-size: 20px;
+}
+
+.profile_info {
+    padding: 100px 0 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wishlist_input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 350px;
+}
+
+.input {
+    width: 70%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 30px;
+    border: 1px solid var(--dark-blue);
+    margin-right: 10px;
+}
+
+.wishlist {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.wishlist_table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.wishlist_table th, .wishlist_table td {
+    border: 3px solid var(--background);
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wishlist_table th {
+    background-color: var(--light-blue);
+    color: white;
+}
+
+.settings_icon {
+    width: 32px;
+    height: auto;
+    cursor: pointer;
+    margin: 0;
+    transform: scaleX(-1);
+}
+
+.settings {
+    padding: 100px 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;}
+
+.settings label {
+    display: block;
+}
+
+.settings input {
+    width: 500px;
+}
+
+.checkbox {
+    height: 20px;
+    width: auto;
+    cursor: pointer;
+    accent-color: var(--dark-pink);
+}
+
+.setting {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 480px) {
+    .navbar a {
+        font-size: 4vw;
+    }
+
+    .main_title {
+        font-size: 10vw;
+    }
+
+    .subtitle {
+        font-size: 6vw;
+    }
+
+    .pill_button {
+        font-size: 6vw;
+        padding: 5% 7%;
+    }
+
+    .input {
+        width: 100%;
+    }
+
+    .wishlist_input {
+        width: 100%;
+        padding: 0;
+    }
+    .about_us {
+        padding: 0;
+    }
+
+}
