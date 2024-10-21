@@ -85,12 +85,14 @@ body {
     cursor: pointer;
 }
 
+/*code copied from https://wavier.art/ */
 .wave_container {
     height: 20vh;
     background-color: var(--background);
     position: relative;
 }
 
+/*code copied from https://wavier.art/ */
 .wave_container::before {
     content: "";
     width: 100%;
@@ -104,6 +106,7 @@ body {
     background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1200 91' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 15L33 12C82 9 133 10 200 20C267 30 333 45 400 48C467 50 533 40 600 27C667 15 733 0 800 0C867 0 933 15 1000 20C1067 25 1133 20 1167 17L1200 15V91H1167C1133 91 1067 91 1000 91C933 91 867 91 800 91C733 91 667 91 600 91C533 91 467 91 400 91C333 91 267 91 200 91C133 91 67 91 33 91H0V22.332Z' fill='%23ffdedf'/></svg>");
 }
 
+/*code copied from https://wavier.art/ */
 @media(max-width:850px) {
     .wave_container::before {
         height: 22px
