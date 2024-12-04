@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\dtos\\wishcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\dtos\\wishcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\controllers\\wishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\controllers\\wishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\dtos\\userregistrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\dtos\\userregistrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\presentlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\presentlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|c:\\users\\kikau\\source\\repos\\presentlyserver\\presentlyserver\\dtos\\wishurlcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D00A8E-F514-4E1D-B253-C72B6A27B831}|PresentlyServer\\PresentlyServer.csproj|solutionrelative:presentlyserver\\dtos\\wishurlcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WishController.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Controllers\\WishController.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Controllers\\WishController.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Controllers\\WishController.cs",
+              "RelativeToolTip": "PresentlyServer\\Controllers\\WishController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA2wGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:55:58.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentlyServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\appsettings.json",
+              "RelativeToolTip": "PresentlyServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T16:54:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbUser.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Models\\DbUser.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Models\\DbUser.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Models\\DbUser.cs",
+              "RelativeToolTip": "PresentlyServer\\Models\\DbUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:54:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PresentlyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\PresentlyDbContext.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\PresentlyDbContext.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\PresentlyDbContext.cs",
+              "RelativeToolTip": "PresentlyServer\\PresentlyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:53:33.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Program.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Program.cs",
+              "RelativeToolTip": "PresentlyServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:29:59.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PresentlyServer\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswEMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:14:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrate.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Dtos\\UserRegistrate.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Dtos\\UserRegistrate.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Dtos\\UserRegistrate.cs",
+              "RelativeToolTip": "PresentlyServer\\Dtos\\UserRegistrate.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:41:14.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WishUrlCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Dtos\\WishUrlCreate.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Dtos\\WishUrlCreate.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Dtos\\WishUrlCreate.cs",
+              "RelativeToolTip": "PresentlyServer\\Dtos\\WishUrlCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:01:29.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WishCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Dtos\\WishCreate.cs",
+              "RelativeDocumentMoniker": "PresentlyServer\\Dtos\\WishCreate.cs",
+              "ToolTip": "C:\\Users\\kikau\\source\\repos\\PresentlyServer\\PresentlyServer\\Dtos\\WishCreate.cs",
+              "RelativeToolTip": "PresentlyServer\\Dtos\\WishCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:06:48.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
