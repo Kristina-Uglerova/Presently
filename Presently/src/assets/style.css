@@ -90,6 +90,8 @@ body {
     height: 20vh;
     background-color: var(--background);
     position: relative;
+    overflow: hidden;
+    z-index: 0;
 }
 
 /*code copied from https://wavier.art/ */
@@ -212,6 +214,26 @@ body {
     flex-direction: column;
 }
 
+.fab {
+    border: none;
+    background-color: var(--dark-pink);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+
+    justify-content: center;
+}
+
 @media (max-width: 480px) {
     .navbar a {
         font-size: 4vw;
@@ -233,7 +255,6 @@ body {
     .input {
         width: 100%;
     }
-
     .wishlist_input {
         width: 100%;
         padding: 0;
